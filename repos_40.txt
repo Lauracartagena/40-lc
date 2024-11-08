@@ -1,0 +1,8 @@
+lista de comandos
+1 git init  // sirve para iniciar el repositoria
+2 git config --global user.name  // configura el nombre de usuario de hit
+3 git config --global user.email  // configura el correo del usuario de hit
+4 git status  // muestra el estado actual del repositorio y si hay archivos modificados
+5 git add .  // agrega todos lo archivos modificados
+6 git commit -m ""  // crea los commits
+7 git branch -m  // muestra la rama a utilizar
